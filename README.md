@@ -1,4 +1,4 @@
-#SimpleRISCV-FPGA
+# SimpleRISCV-FPGA
 
 A calculator implemented on FPGA written in Verilog, with core component a simplified 32bit RISC-V single-cycle processor. This calculator supports such operations as *addition*, *subtraction*, and *multiplication*.
 
